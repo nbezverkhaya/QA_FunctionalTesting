@@ -1,0 +1,8 @@
+author1 = "Eric Elliott"
+author2 = "Kyle Simpson"
+author3 = "Glenn Block"
+publisher1 = "Reilly Media"
+publisher2 = "No Starch Press"
+title1 = "JavaScript"
+title2 = "Git"
+title3 = "Programming"
