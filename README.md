@@ -26,7 +26,7 @@ This project is designed to demonstrate functional testing using Selenium WebDri
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/nbezverkhaya/DemoQAFunctionalTesting.git
+   git clone https://github.com/nbezverkhaya/QA_FunctionalTesting.git
 ```
 2. **Navigate to the project directory:**
 ```bash
