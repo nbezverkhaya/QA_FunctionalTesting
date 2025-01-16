@@ -30,7 +30,7 @@ This project is designed to demonstrate functional testing using Selenium WebDri
 ```
 2. **Navigate to the project directory:**
 ```bash
-   cd demo-qa-functional-testing
+   cd QA_FunctionalTesting
 ```
 3. **Create a virtual environment and activate it:**
 ```bash
